@@ -2,15 +2,15 @@
 PCB for the ISA Bus with sockets for (E)PROMS either 64 KBit or 256KBit Rom.
 
 ## Known working (E)PROMS
-26C64 (8K)
-27C256  (32K)
-28C64 only reading (8K)
-28C64B(8K)
-38C256  (32K)
+* 26C64 (8K)
+* 27C256  (32K)
+* 28C64 only reading (8K)
+* 28C64B(8K)
+* 38C256  (32K)
 
 Build Confirmed to work
-1.0 Original Monotexh is working
-1.1 Minor changes, not confirmed until now.
+* 1.0 Original Monotexh is working
+* 1.1 Minor changes, not confirmed until now.
 
 ## Change Log
 26.06.2026 - Text on PCB 256K corrected to 32K and new fabrication files generated
