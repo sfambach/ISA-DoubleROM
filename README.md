@@ -1,5 +1,6 @@
 # ISA Doubel Rom 
 PCB for the ISA Bus with sockets for (E)PROMS either 64 KBit or 256KBit Rom.
+
 forked from monotech/ISA-DoubleROM
 
 ## Known working (E)PROMS
@@ -17,8 +18,8 @@ Build Confirmed to work
 26.06.2026 - Text on PCB 256K corrected to 32K and new fabrication files generated
 
 ## Credits
-Initial Design by Monotec (Thanks to them by there work on there Website)
-Minor Changes by me. Visit my Website if you want http://www.fambach.net
+*Initial Design by Monotec (Thanks to them by there work on there Website)
+*Minor Changes by me. Visit my Website if you want http://www.fambach.net
 
 ## License
 The intial work was distributed under the GPL3 License and so is this project, too.
