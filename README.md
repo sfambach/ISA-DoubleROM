@@ -1,13 +1,12 @@
-^# ISA Doubel Rom 
-
-For two Roms either 64 KBit or 256KBit Rom.
+# ISA Doubel Rom 
+PCB for the ISA Bus with sockets for (E)PROMS either 64 KBit or 256KBit Rom.
 
 ## Known working (E)PROMS
-26C64
-27C256
-28C64 only reading
-28C64B
-38C256
+26C64 (8K)
+27C256  (32K)
+28C64 only reading (8K)
+28C64B(8K)
+38C256  (32K)
 
 
 ## Change Log
