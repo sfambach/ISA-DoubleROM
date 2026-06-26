@@ -1,7 +1,7 @@
 # ISA Doubel Rom 
 PCB for the ISA Bus with sockets for (E)PROMS either 64 KBit or 256KBit Rom.
 
-forked from monotech/ISA-DoubleROM
+forked froma <a href="https://github.com/monotech/ISA-DoubleROM"> monotech/ISA-DoubleROM </a>
 
 ## Known working (E)PROMS
 * 26C64 (8K)
