@@ -9,7 +9,7 @@ PCB for the ISA Bus with sockets for (E)PROMS either 64 KBit or 256KBit Rom.
 * 38C256  (32K)
 
 Build Confirmed to work
-* 1.0 Original Monotexh is working
+* 1.0 Original Monotec is working
 * 1.1 Minor changes, not confirmed until now.
 
 ## Change Log
