@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_Radial_Tantal_D4.5mm_P5.00mm,1,10uF,
+"C2, C3, C4",C_Disc_D4.3mm_W1.9mm_P5.00mm,3,100nF,
+J1,Conn_Bus_ISA8,1,Bus_ISA_8bit,
+"RN1, RN2, RN3",R_Array_SIP7,3,10K,
+SW1,SW_DIP_SPSTx06_Slide_9.78x17.42mm_W7.62mm_P2.54mm,1,ROM 1 Config,
+SW2,SW_DIP_SPSTx06_Slide_9.78x17.42mm_W7.62mm_P2.54mm,1,ROM 2 Config,
+"SW3, SW4",SW_MS-22D18G2,2,Size,
+U1,DIP-28_W15.24mm_Socket,1,ROM 1,
+U2,DIP-28_W15.24mm_Socket,1,ROM 2,
+"U3, U4",DIP-20_W7.62mm,2,74LS688,
+U5,SOIC-14_3.9x8.7mm_P1.27mm,1,74LS33,
